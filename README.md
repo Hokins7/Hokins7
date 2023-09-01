@@ -1,5 +1,7 @@
 ### My name is Anatolii Senko.
 
+<img src="https://raw.githubusercontent.com/Hokins7/Hokins7/master/Anatolii Senko (2).png" alt="banner with Anatolii Senko info">
+
 This is a repository of my QA Automation projects using mostly HTML, CSS, JavaScript, Cypress.io and other mixed in.
 
 ### :handshake: Connect with me:
