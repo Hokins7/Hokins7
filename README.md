@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/Hokins7/Hokins7/master/Anatolii Senko (2).png" alt="banner with Anatolii Senko info">
-
 ### My name is Anatolii Senko.
 
 This is a repository of my QA Automation projects using mostly HTML, CSS, JavaScript, Cypress.io and other mixed in.
+
+<img src="https://raw.githubusercontent.com/Hokins7/Hokins7/master/Anatolii Senko (2).png" alt="banner with Anatolii Senko info">
 
 ### :handshake: Connect with me:
 <a href="mailto:qa.bugs.hunter@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
