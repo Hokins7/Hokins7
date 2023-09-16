@@ -1,6 +1,6 @@
 ### My name is Anatolii Senko.
 
-This is a repository of my QA Automation projects using mostly HTML, CSS, JavaScript, Cypress.io and other mixed in
+This is a repository of my QA Automation projects using mostly HTML, CSS, JavaScript, Cypress.io and other mixed in.
 
 <img src="https://raw.githubusercontent.com/Hokins7/Hokins7/master/Anatolii Senko (2).png" alt="banner with Anatolii Senko info">
 
