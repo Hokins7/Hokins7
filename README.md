@@ -22,7 +22,7 @@ This is a repository of my QA Automation projects using mostly HTML, CSS, JavaSc
  
  <br />
  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hokins7&theme=dracula)](https://github.com/Hokins7/github-readme-activity-graph) 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hokins7&theme=github-compact)]
 <!--
 **iweld/iweld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
