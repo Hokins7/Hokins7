@@ -12,6 +12,17 @@ This is a repository of my QA Automation projects using mostly HTML, CSS, JavaSc
 <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-gold%20?style=for-the-badge&logo=javascript&logoColor=white">  <img src="https://img.shields.io/badge/Cypress-green%20?style=for-the-badge&logo=cypress&logoColor=white">  <img src="https://img.shields.io/badge/Node.js-%2394A684%20?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
 <img src="https://raw.githubusercontent.com/Hokins7/Hokins7/master/anim.gif" alt="animated banner with rain">
+
+## &#x1f4c8; GitHub Stats
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hokins7&show_icons=true&locale=en&layout=compact&theme=radical" alt="Hokins7" /></p>
+
+ 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hokins7&theme=radical" alt="Hokins7" /></p>
+ 
+ <br />
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hokins7&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 <!--
 **iweld/iweld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
