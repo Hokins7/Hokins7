@@ -20,7 +20,7 @@ This is a repository of my QA Automation projects using mostly HTML, CSS, JavaSc
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hokins7&theme=radical" alt="Hokins7" /></p>
  
- <br />
+ <br /><br />
  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hokins7&theme=react-dark)]
 <!--
